@@ -1,0 +1,1 @@
+{"name":"evidencedrive-lab","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node tests_evidence.mjs","start":"python app.py"}}

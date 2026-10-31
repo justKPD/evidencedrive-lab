@@ -1,0 +1,85 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "A new authored source is usable without being disguised as a default document revision",
+      "passed": true
+    },
+    {
+      "name": "Free prose can be imported as an incomplete note without invented test criteria or approval",
+      "passed": true
+    },
+    {
+      "name": "A source-backed complete contract still requires explicit review",
+      "passed": true
+    },
+    {
+      "name": "Missing limits and source review remain explicit unknowns",
+      "passed": true
+    },
+    {
+      "name": "Low-friction operating scope cannot be approved by schema validity",
+      "passed": true
+    },
+    {
+      "name": "Independent and shared power failures produce different actual property outcomes",
+      "passed": true
+    },
+    {
+      "name": "A stuck command is exposed by release pressure, not a preset label",
+      "passed": true
+    },
+    {
+      "name": "Recovery uses declared tolerance and sustained window, and no fault is not a pass",
+      "passed": true
+    },
+    {
+      "name": "Insufficient recovery observation is UNQUALIFIED, never silently PASS",
+      "passed": true
+    },
+    {
+      "name": "Revision impact retains the previous failing result and snapshots",
+      "passed": true
+    },
+    {
+      "name": "Only explicit structured unit equivalence is reused; changed free prose remains UNKNOWN",
+      "passed": true
+    },
+    {
+      "name": "Unrelated source edits and mass preserve tracking validity; dependent dynamics do not",
+      "passed": true
+    },
+    {
+      "name": "Question relevance, source scope and exact spans are preserved without an LLM",
+      "passed": true
+    },
+    {
+      "name": "A model configuration mismatch or tampered numerical observable cannot create a reviewed result",
+      "passed": true
+    },
+    {
+      "name": "Recomputed content checksums cannot legitimize a forged but bounded numerical trace",
+      "passed": true
+    },
+    {
+      "name": "A source cannot omit an influential dependency to preserve an outdated result",
+      "passed": true
+    },
+    {
+      "name": "Incomplete recovery clauses do not borrow an implicit tracking tolerance",
+      "passed": true
+    },
+    {
+      "name": "Invalid units, instruction-like sources and direct record mutation cannot waive gates",
+      "passed": true
+    },
+    {
+      "name": "Valid export/import preserves graph and results; malformed or forged result imports are refused",
+      "passed": true
+    },
+    {
+      "name": "Controlled change-policy comparison executes real reruns and preserves safe baseline controls",
+      "passed": true
+    }
+  ]
+}

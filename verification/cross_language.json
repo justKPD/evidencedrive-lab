@@ -1,0 +1,207 @@
+{
+  "passed": true,
+  "cases": 33,
+  "sampled_states": 10653,
+  "runtime_s": 0.6305814000079408,
+  "rows": [
+    {
+      "case": "clean",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "zero",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "constant",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "friction_cap",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "at_rest",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "grid_future",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "independent_power_loss_A",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "independent_power_loss_B",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "independent_common_power_loss_both",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "independent_signal_delay_A",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "independent_signal_stuck_A",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "independent_actuator_stuck_A",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "shared_power_loss_A",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "shared_power_loss_B",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "shared_common_power_loss_both",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "shared_signal_delay_A",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "shared_signal_stuck_A",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "shared_actuator_stuck_A",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "offgrid",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "jam_and_power",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "future_fault",
+      "states": 301,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "parameterized_0",
+      "states": 121,
+      "maximum_absolute_difference": 3.979039320256561e-13,
+      "passed": true
+    },
+    {
+      "case": "parameterized_1",
+      "states": 601,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "parameterized_2",
+      "states": 121,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "parameterized_3",
+      "states": 601,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "parameterized_4",
+      "states": 121,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "parameterized_5",
+      "states": 601,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "parameterized_6",
+      "states": 121,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "parameterized_7",
+      "states": 601,
+      "maximum_absolute_difference": 1.1368683772161603e-12,
+      "passed": true
+    },
+    {
+      "case": "parameterized_8",
+      "states": 121,
+      "maximum_absolute_difference": 1.8189894035458565e-12,
+      "passed": true
+    },
+    {
+      "case": "parameterized_9",
+      "states": 601,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "parameterized_10",
+      "states": 121,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    },
+    {
+      "case": "parameterized_11",
+      "states": 601,
+      "maximum_absolute_difference": 0.0,
+      "passed": true
+    }
+  ],
+  "scope": "Cross-language agreement on declared cases, not an independent physical validation or proof of Bosch behavior."
+}

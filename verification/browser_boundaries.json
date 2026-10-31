@@ -1,0 +1,71 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "Static execution is explicitly labeled Browser solver",
+      "passed": true
+    },
+    {
+      "name": "Free-provider switch disabled in static mode",
+      "passed": true
+    },
+    {
+      "name": "Static model executes a real reviewed check",
+      "passed": true
+    },
+    {
+      "name": "Campaign readable report assesses its own workspace",
+      "passed": true
+    },
+    {
+      "name": "Return restores original working run without new execution",
+      "passed": true
+    },
+    {
+      "name": "Structured source UI produces a reviewable proposal",
+      "passed": true
+    },
+    {
+      "name": "Invalid custom input leaves last valid configuration intact",
+      "passed": true
+    },
+    {
+      "name": "Invalid custom input is visibly refused",
+      "passed": true
+    },
+    {
+      "name": "Free explanation uses bounded summary and explicit opt-in",
+      "passed": true
+    },
+    {
+      "name": "Provider suggestion creates no result or approved contract",
+      "passed": true
+    },
+    {
+      "name": "AI response is identified as a proposal",
+      "passed": true
+    },
+    {
+      "name": "Editable inputs lock while a run is computing",
+      "passed": true
+    },
+    {
+      "name": "Inputs unlock after successful execution",
+      "passed": true
+    },
+    {
+      "name": "Python refusal is displayed instead of hidden fallback",
+      "passed": true
+    },
+    {
+      "name": "Refused execution retains previous valid trace",
+      "passed": true
+    },
+    {
+      "name": "No JavaScript errors in boundary scenarios",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "provider": "UI routing tested with a mock response; not a live provider success claim."
+}

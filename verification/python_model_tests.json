@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "tests": 25,
+  "failures": 0,
+  "errors": 0,
+  "elapsed_s": 0.09390759468078613,
+  "scope": "Declared independent numerical abstraction; not Bosch or functional-safety certification."
+}

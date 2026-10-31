@@ -1,0 +1,86 @@
+[
+  {
+    "id": "clean-control",
+    "kind": "none",
+    "expected": "CURRENT",
+    "numeric_rerun_needed": false,
+    "safe_numerical_reuse": true
+  },
+  {
+    "id": "unrelated-family-title",
+    "kind": "unrelated",
+    "expected": "CURRENT",
+    "numeric_rerun_needed": false,
+    "safe_numerical_reuse": true
+  },
+  {
+    "id": "title-only",
+    "kind": "title",
+    "expected": "REVIEW_CITATION",
+    "numeric_rerun_needed": false,
+    "safe_numerical_reuse": true
+  },
+  {
+    "id": "revision-label-only",
+    "kind": "revision",
+    "expected": "REVIEW_CITATION",
+    "numeric_rerun_needed": false,
+    "safe_numerical_reuse": true
+  },
+  {
+    "id": "equivalent-unit-spelling",
+    "kind": "unit",
+    "expected": "REVIEW_CITATION",
+    "numeric_rerun_needed": false,
+    "safe_numerical_reuse": true
+  },
+  {
+    "id": "tightened-limit",
+    "kind": "limit",
+    "expected": "RETEST_REQUIRED",
+    "numeric_rerun_needed": true,
+    "safe_numerical_reuse": false
+  },
+  {
+    "id": "slow-response-config",
+    "kind": "tau",
+    "expected": "RETEST_REQUIRED",
+    "numeric_rerun_needed": true,
+    "safe_numerical_reuse": false
+  },
+  {
+    "id": "irrelevant-mass-for-tracking",
+    "kind": "mass",
+    "expected": "CURRENT",
+    "numeric_rerun_needed": false,
+    "safe_numerical_reuse": true
+  },
+  {
+    "id": "low-friction-outside-scope",
+    "kind": "friction",
+    "expected": "INCOMPATIBLE",
+    "numeric_rerun_needed": false,
+    "safe_numerical_reuse": false
+  },
+  {
+    "id": "changed-required-variant",
+    "kind": "variant",
+    "expected": "INCOMPATIBLE",
+    "numeric_rerun_needed": false,
+    "safe_numerical_reuse": false
+  },
+  {
+    "id": "unreviewed-new-source",
+    "kind": "unreviewed",
+    "expected": "UNKNOWN",
+    "numeric_rerun_needed": false,
+    "safe_numerical_reuse": false
+  },
+  {
+    "id": "unstructured-wording-change",
+    "kind": "wording",
+    "expected": "UNKNOWN",
+    "numeric_rerun_needed": false,
+    "safe_numerical_reuse": false
+  }
+]

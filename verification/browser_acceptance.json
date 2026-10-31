@@ -1,0 +1,150 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "Two actual 3D renderers",
+      "passed": true
+    },
+    {
+      "name": "Actual Python execution mode",
+      "passed": true
+    },
+    {
+      "name": "Review checkbox starts unchecked",
+      "passed": true
+    },
+    {
+      "name": "Computed single loss and healthy reference",
+      "passed": true
+    },
+    {
+      "name": "Fault arrow identifies actual supply",
+      "passed": true
+    },
+    {
+      "name": "Mouse orbit changes rendered view",
+      "passed": true
+    },
+    {
+      "name": "Orbit does not change selected experiment",
+      "passed": true
+    },
+    {
+      "name": "Custom edit clears misleading preset label",
+      "passed": true
+    },
+    {
+      "name": "No-fault custom case does not retain lost-channel title",
+      "passed": true
+    },
+    {
+      "name": "Approval requires explicit review",
+      "passed": true
+    },
+    {
+      "name": "Review itself creates no numerical result",
+      "passed": true
+    },
+    {
+      "name": "Reviewed shared supply case actually fails",
+      "passed": true
+    },
+    {
+      "name": "First failed sample drives visual replay",
+      "passed": true
+    },
+    {
+      "name": "Read-only question adds no recorded execution",
+      "passed": true
+    },
+    {
+      "name": "New contract never borrows another contract result",
+      "passed": true
+    },
+    {
+      "name": "Recorded history is inspectable without a rerun",
+      "passed": true
+    },
+    {
+      "name": "Readable report uses the result own contract and source",
+      "passed": true
+    },
+    {
+      "name": "Changed criterion requires fresh evidence",
+      "passed": true
+    },
+    {
+      "name": "Historical result remains unchanged",
+      "passed": true
+    },
+    {
+      "name": "Own prose source is accepted but not invented into an executable test",
+      "passed": true
+    },
+    {
+      "name": "Missing source criterion cannot be approved",
+      "passed": true
+    },
+    {
+      "name": "Change-policy comparison executes real bounded cases",
+      "passed": true
+    },
+    {
+      "name": "Campaign respects a one-case budget",
+      "passed": true
+    },
+    {
+      "name": "Full campaign reports computed pass fail and out-of-scope cases",
+      "passed": true
+    },
+    {
+      "name": "Campaign inspection preserves the user investigation",
+      "passed": true
+    },
+    {
+      "name": "Campaign source and result stay paired",
+      "passed": true
+    },
+    {
+      "name": "Campaign export contains the displayed recorded case",
+      "passed": true
+    },
+    {
+      "name": "Export import round trip verifies recorded trace and source",
+      "passed": true
+    },
+    {
+      "name": "Saved browser evidence survives reload",
+      "passed": true
+    },
+    {
+      "name": "Mobile experiment fits viewport",
+      "passed": true
+    },
+    {
+      "name": "Mobile knowledge fits viewport",
+      "passed": true
+    },
+    {
+      "name": "Mobile change fits viewport",
+      "passed": true
+    },
+    {
+      "name": "Mobile proof fits viewport",
+      "passed": true
+    },
+    {
+      "name": "WebGL fallback is usable",
+      "passed": true
+    },
+    {
+      "name": "Fallback follows computed state",
+      "passed": true
+    },
+    {
+      "name": "No JavaScript errors",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

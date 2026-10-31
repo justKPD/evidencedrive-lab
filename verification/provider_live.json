@@ -1,0 +1,8 @@
+{
+  "mode": "deterministic guide",
+  "provider_available": false,
+  "provider_error": "Free-provider unavailable or invalid (JSONDecodeError); deterministic guide retained.",
+  "executed": false,
+  "message": "A source clause supplies the reviewed criterion; the contract preserves its conditions; execution produces observations. After a source or model-context change, assess applicability before reusing the result.",
+  "scope": "Single opt-in free-provider attempt. Availability is external; no result or test was created."
+}

@@ -1,0 +1,71 @@
+{
+  "checked_at_utc": "2026-10-31T13:32:24.141420+00:00",
+  "scope": "Independent declared model and workflow; not physical brake validation.",
+  "steps": [
+    {
+      "name": "python_unit",
+      "passed": true,
+      "elapsed_s": 0.91,
+      "output": "----------------------------------------------------------------------\nRan 31 tests in 0.099s\n\nOK\n"
+    },
+    {
+      "name": "evidence",
+      "passed": true,
+      "elapsed_s": 2.328,
+      "output": "{\n  \"passed\": true,\n  \"checks\": 20\n}\n"
+    },
+    {
+      "name": "cross_language",
+      "passed": true,
+      "elapsed_s": 0.779,
+      "output": "{\n  \"passed\": true,\n  \"cases\": 33,\n  \"sampled_states\": 10653,\n  \"runtime_s\": 0.6305814000079408,\n  \"scope\": \"Cross-language agreement on declared cases, not an independent physical validation or proof of Bosch behavior.\"\n}\n"
+    },
+    {
+      "name": "http",
+      "passed": true,
+      "elapsed_s": 0.387,
+      "output": "{\n  \"passed\": true,\n  \"checks\": [\n    {\n      \"name\": \"Actual local Python service\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"Shared supply loss affects both actual channels\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"Separate supply preserves healthy channel\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"Question does not execute numerical work\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"Unsupported revision is refused\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"Unknown field is refused\",\n      \"passed\": true\n    },\n    {\n      \"name\": \"Oversized body is refused\",\n      \"passed\": true\n    }\n  ],\n  \"base\": \"http://127.0.0.1:8786\"\n}\n"
+    },
+    {
+      "name": "browser_acceptance",
+      "passed": true,
+      "elapsed_s": 18.493,
+      "output": "{\n  \"passed\": true,\n  \"checks\": 36,\n  \"errors\": []\n}\n"
+    },
+    {
+      "name": "browser_boundaries",
+      "passed": true,
+      "elapsed_s": 9.823,
+      "output": "{\"passed\":true,\"checks\":16}\n"
+    }
+  ],
+  "passed": true,
+  "python_unit_tests": 31,
+  "evidence_checks": 20,
+  "http_checks": 7,
+  "browser_acceptance_checks": 36,
+  "browser_boundary_checks": 16,
+  "cross_language_cases": 33,
+  "cross_language_sampled_states": 10653,
+  "source_sha256": {
+    "app.py": "547d67f067d2ebe69afe8be1a94c63264944a138e54da5af22e063aacb5e317b",
+    "model.py": "e98c82b19a8dc093d72dca8bc0ec360aa45e3410c9dfc6079778c4b7be28a9a7",
+    "package.json": "3c679fb9df943dfde31531ecd5b0d30e98c77441abee3ac7cc6937a9477bc3d8",
+    "requirements.txt": "745f08fab6c6193210b3fc117b7c9e44c82f8ee4d676259d2e9e1884266232fd",
+    "tests_evidence.mjs": "5cba4b9e49486ec771b1a4f4e85c2c078ae56d042ea665d677094e21e8ce4711",
+    "tests_model.py": "98f0fca0c1b75e4683728c4e7a7a619d57a7727804ed50ea8930a7243d5ddf9a",
+    "tests_service.py": "7e312090f3c9310fc0d0db77ecebf480a5678e33ed9a131adaa75844bc2010ec",
+    "verification/browser_acceptance.cjs": "329afc9f5dbffb50696140ac1ee5e3c62c1c84bcd423e78f3ffbd450e07109bd",
+    "verification/browser_boundaries.cjs": "53c779c6cb692f85e05b77029a72b40d19321812493f2a3ae5b5cb0c62f55872",
+    "verify_all.py": "b705267b8d362a4dae4140f11ba44d0bfd332f4735e5b728191195ae6b48dfde",
+    "verify_api.py": "c70b84dfca459cafc834032b3e8788c6728b466bd824dcc0c727abbcd57f9d3f",
+    "verify_cross_language.py": "dfa66ace391f2a5290c8533c9066ceae9a5d3ed9ec4af12cd7528a61c5a707d4",
+    "web/evidence.js": "8b7536eef9ba13878bad24b58571e463fbfd72703c50a2cdf3b878ab963a5124",
+    "web/experiments.js": "8fa5ddc3c5d5088642f92b873a66db8c35572606189873bc783c69cf625e157f",
+    "web/index.html": "b2b23c497aea8a64b7b8878b7c607f0c97d7c932bfae441ce2dbb5ba8850cc6c",
+    "web/main.js": "70bfdab8b0cd3995ff511b9c54976ab2911f1b3c5c907a34ce39c94ce6712e5f",
+    "web/scene.js": "819cfc276effc3be6f2f5b19cf1cfb2764338ca8da5e19749d796b86d4d80158",
+    "web/simulator.js": "df58a9f7a2fa24d57aae07b01c6d070c6e34df569ec7eb791be00eb45b27feea",
+    "web/style.css": "5387215d758eeeb11274fd2988c6b28b4af893f053abbd0a792cf7f9965a0bff"
+  }
+}
