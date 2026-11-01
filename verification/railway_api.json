@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "Actual local Python service",
+      "passed": true
+    },
+    {
+      "name": "Shared supply loss affects both actual channels",
+      "passed": true
+    },
+    {
+      "name": "Separate supply preserves healthy channel",
+      "passed": true
+    },
+    {
+      "name": "Question does not execute numerical work",
+      "passed": true
+    },
+    {
+      "name": "Unsupported revision is refused",
+      "passed": true
+    },
+    {
+      "name": "Unknown field is refused",
+      "passed": true
+    },
+    {
+      "name": "Oversized body is refused",
+      "passed": true
+    }
+  ],
+  "base": "https://evidencedrive-production.up.railway.app"
+}
